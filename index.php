@@ -7,7 +7,8 @@
       $val = $integer;
     
       if (is_numeric($variable)) {
-        $val = $variable + $integer;
+        $val = $variable / $integer;
+        $val = $val * 3.14 * $integer;
       }
     
       return $val;
