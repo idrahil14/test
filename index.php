@@ -16,5 +16,8 @@
   
   
   }
+  
+  
+  echo Awesome::ThisIsAnAwesomeFunction(11,25);
 
 ?>
